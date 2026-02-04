@@ -1,65 +1,64 @@
-👋 Hello there, I’m 𝗩𝗮𝘀𝘂𝗻𝗱𝗵𝗮𝗿𝗮 𝗚𝗼𝘂𝗿
-Software Development Engineer | Backend & Full-Stack
+## 👋 Hello there, I’m **Vasundhara Gour**
 
-Java | Spring Boot | Microservices
+### **Software Development Engineer | Backend & Full-Stack**
+**Java | Spring Boot | Microservices**
 
-I’m a Computer Science graduate with hands-on experience in building secure, scalable backend systems using Java and Spring Boot. I enjoy designing clean REST APIs, working with microservices, and solving real-world engineering problems with a strong focus on performance, security, and maintainability.
+I’m a **Computer Science graduate** with hands-on experience in building **secure and scalable backend systems** using **Java and Spring Boot**. I enjoy designing **clean REST APIs**, working with **microservices**, and solving **real-world engineering problems** with a focus on **performance, security, and maintainability**.
 
-🧰 Skills & Tools
+---
 
-Java – Spring Boot, Spring Security, REST APIs, Microservices, JWT
+## 🧰 **Skills & Tools**
 
-Backend Development – MVC architecture, API design, authentication & authorization
+- **Java** – Spring Boot, Spring Security, REST APIs, Microservices, JWT  
+- **Backend Development** – MVC architecture, API design, authentication & authorization  
+- **Databases** – MySQL, JPA/Hibernate, JDBC, query optimization  
+- **Frontend** – Angular, TypeScript, HTML, CSS  
+- **DevOps & Tools** – Git, GitHub, Postman, Docker, Jenkins, AWS  
+- **Core Concepts** – OOPs, Agile SDLC, DSA, System Design basics  
 
-Databases – MySQL, JPA/Hibernate, JDBC, query optimization
+---
 
-Frontend – Angular, TypeScript, HTML, CSS
+## 📌 **Featured Projects**
 
-DevOps & Tools – Git, GitHub, Postman, Docker, Jenkins, AWS
+### 🟦 **Shopease – E-commerce Management System**
+**Spring Boot | Microservices | API Gateway | Eureka | MySQL | JWT | CI/CD**
 
-Core Concepts – OOPs, Agile SDLC, DSA, System Design (Basics)
+- Built a **microservices-based backend** handling users, products, and orders  
+- Implemented **API Gateway & service discovery** across **5+ services**  
+- Automated deployments using **Jenkins & GitHub Actions**, reducing manual effort by **~50%**
 
-📌 Featured Projects
-🟦 Shopease – E-commerce Management System
+🔗 [GitHub Repository](https://github.com/vasundhara-gour/ShopeaseProject-Using-Spring-snd-Angular)
 
-Spring Boot | Microservices | API Gateway | Eureka | MySQL | JWT | CI/CD
+---
 
-Built a microservices-based backend handling users, products, and orders
+### 🟦 **TODO List – Task Management Application**
+**Spring Boot | REST APIs | MySQL | JWT**
 
-Implemented API Gateway & service discovery across 5+ services
+- Designed **secure REST APIs** for task creation and tracking  
+- Implemented **role-based authentication** using JWT  
+- Followed **layered architecture** for scalability  
 
-Automated deployments using Jenkins & GitHub Actions, reducing manual effort by ~50%
+🔗 [GitHub Repository](https://github.com/vasundhara-gour/TODO-List)
 
-🔗 GitHub: https://github.com/vasundhara-gour/ShopeaseProject-Using-Spring-snd-Angular
+---
 
-🟦 TODO List – Task Management Application
+### 🟦 **Quantace – Backend Engineering Challenge**
+**Java | Spring Boot | REST APIs | MySQL**
 
-Spring Boot | REST APIs | MySQL | JWT
+- Developed and optimized backend APIs  
+- Reduced latency by **~15%**
 
-Designed secure REST APIs for task creation, tracking, and management
+🔗 [GitHub Repository](https://github.com/vasundhara-gour/quantace-fullstack-challenge)
 
-Implemented role-based authentication using JWT
+---
 
-Followed layered architecture for scalability and maintainability
+## 🏆 **Achievements**
 
-🔗 GitHub: https://github.com/vasundhara-gour/TODO-List
+- Solved **300+ DSA problems** on **LeetCode & GeeksforGeeks**  
+- Led a **10+ member team**, impacting **1,000+ participants**
 
-🟦 Quantace – Backend Engineering Challenge
+---
 
-Java | Spring Boot | REST APIs | MySQL
+## 📫 **Connect with Me**
 
-Developed and optimized backend APIs for data processing
-
-Improved response handling and reduced latency by ~15%
-
-🔗 GitHub: https://github.com/vasundhara-gour/quantace-fullstack-challenge
-
-🏆 Achievements
-
-Solved 300+ DSA problems on LeetCode & GeeksforGeeks
-
-Led a 10+ member student team, organizing initiatives impacting 1,000+ participants
-
-📫 Connect with Me
-
-🔗 LinkedIn: https://www.linkedin.com/in/vasudhara-gour/
+- 💼 [LinkedIn](https://www.linkedin.com/in/vasudhara-gour/)
